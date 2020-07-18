@@ -1,6 +1,5 @@
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.
 
----
 | more about me                                                     | 
 | ---                                                               |
 | `curl about.vdoster.com`                                          |
