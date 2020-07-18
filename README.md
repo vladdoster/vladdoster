@@ -6,7 +6,7 @@
 
 </div>
 
-| more about me                                                     | 
+| information                                                       | 
 | ---                                                               |
 | `curl about.vdoster.com`                                          |
 | [vlad_doster@hms.harvard.edu](mailto:vlad_doster@hms.harvard.edu) |
