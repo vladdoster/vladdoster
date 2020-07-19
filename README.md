@@ -1,5 +1,5 @@
 <div align="center">
   
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> Beware of bugs in the above code; I have only proved it correct, not tried it.
 
 </div>
